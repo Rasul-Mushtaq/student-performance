@@ -1,6 +1,6 @@
 # Student Performance Detailed Analysis
 
-A data science and machine learning project analyzing a synthetic dataset of 1,000 students to identify key performance drivers, conduct inferential statistical tests, and implement supervised and unsupervised models.
+A data science and machine learning project analyzing a [synthetic dataset of 1,000 students](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) to identify key performance drivers, conduct inferential statistical tests, and implement supervised and unsupervised models.
 
 ## Built With
 
